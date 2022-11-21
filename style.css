@@ -1,0 +1,27 @@
+body{
+	background-color: lightblue;
+	font: 10pt "arial";
+	}
+h1{
+	font: 15pt/17pt comic;
+	font-weight: bold;
+	color: maroon;
+	}
+h2{
+	font: 13pt/15pt "arial";
+	font-weight: bold;
+	color: blue;
+}
+p{
+	font: 13pt/15pt "arial";
+	color: purple;
+}
+hr{
+	color: red;
+	background-color: red;
+	height: 12pt;
+}
+img{
+	width: 100px;
+	height: 100px;
+}
